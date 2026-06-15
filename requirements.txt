@@ -1,0 +1,6 @@
+PyQt5>=5.15
+PyQt5-tools>=5.15
+# 或
+# PySide6>=6.4
+numpy>=1.24
+Pillow>=10.0

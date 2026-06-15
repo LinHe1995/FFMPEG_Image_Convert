@@ -1,0 +1,36 @@
+/* 主窗口背景 */
+QMainWindow {
+    background-color: #f5f7fa;
+}
+
+/* 文本框样式 */
+QLineEdit {
+    border: 2px solid #dcdde1;
+    border-radius: 5px;
+    padding: 8px;
+    font-size: 14px;
+    background-color: white;
+}
+
+QLineEdit:focus {
+    border-color: #3498db;
+}
+
+/* 下拉框样式 */
+QComboBox {
+    border: 2px solid #dcdde1;
+    border-radius: 5px;
+    padding: 8px;
+    font-size: 14px;
+    background-color: white;
+}
+
+QComboBox::drop-down {
+    border: none;
+}
+
+QComboBox QAbstractItemView {
+    border: 1px solid #dcdde1;
+    background-color: white;
+    selection-background-color: #3498db;
+}
