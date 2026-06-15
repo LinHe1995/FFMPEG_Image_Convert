@@ -128,6 +128,10 @@ build_exe.bat
 
 - `dist/图像显示与格式处理工具V1.1.exe`
 
+也可直接下载仓库中的发布包（Git LFS）：
+
+- `ImgPGV1.1_public.zip`（内含 `图像显示与格式处理工具V1.1.exe`）
+
 ---
 
 ## 目录说明（核心）
